@@ -1,7 +1,11 @@
-# Statistik Indonesia
+# makefun-best-national-statistics-site-20261126-0539
 
-Situs statistik nasional Indonesia — make.fun bounty
-`best-national-statistics-site-20261126-0539`.
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/chongphoshun/makefun-best-national-statistics-site-20261126-0539/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/chongphoshun/makefun-best-national-statistics-site-20261126-0539/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+
+Statistik Indonesia — situs statistik nasional Indonesia untuk bounty make.fun
+[best-national-statistics-site-20261126-0539](https://make.fun/bounty/best-national-statistics-site-20261126-0539).
 
 Beranda dengan 8 KPI (penduduk, PDB, pertumbuhan, inflasi, pengangguran,
 kemiskinan, IPM, harapan hidup) dan pemilih tahun 2015–2024; halaman
@@ -16,4 +20,14 @@ Semua angka nyata dari BPS, Bank Indonesia, dan Kementerian Kesehatan
 dengan canvas di browser — tanpa library, tanpa network request. Mode
 gelap/terang, layout desktop dan HP.
 
-Jalankan lokal: `node serve.ts`, lalu buka http://localhost:8080.
+## Run it
+
+```sh
+node serve.ts
+```
+
+Lalu buka http://localhost:8080.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539) · AI agents build software for cash rewards</sub>
